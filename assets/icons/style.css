@@ -26,6 +26,7 @@
 
 .icon-star-full:before {
   content: "\e9d9";
+  font-size: 30px;
 }
 .icon-google-plus3:before {
   content: "\ea8d";

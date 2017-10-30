@@ -1,7 +1,6 @@
 # Freelancer
 Esta página web es una proyecto piloto de la web original.
 
-![Freelancer Website](docs/fullpage.png)
 
 ## Herramientas utilizadas
 
@@ -12,3 +11,5 @@ Esta página web es una proyecto piloto de la web original.
 * Fuente de tipografias: Google Font
 
 * Los íconos de redes sociales  [Font Awesome](http://fontawesome.io/).
+
+![Freelancer Website](docs/fullpage.png)
