@@ -44,6 +44,9 @@ li{
 li:hover{
     color:#18bc9c;
 }
+li:active{
+  background:#000000;
+}
 .sectionbox{
   margin-top: 110px;
   font-family: 'Lato', sans-serif;
@@ -59,7 +62,6 @@ li:hover{
   color: #fff;
 }
 .text{
-  outline: 1px solid red;
   width: 400px;
 
 }
@@ -87,8 +89,12 @@ span::after{
   background: #000000;
   display: inline-block;
 }
+.images{
+  width: 960px;
+  height: 478;
+}
 img{
-  width: 300px;
+  width: 250px;
   height: 200px;
   margin: 20px;
 }
@@ -96,7 +102,13 @@ img{
   background: #18bc9c;
 }
 button{
-  border: none;
+ background-color:gray;
+ padding: 10px 10px;
+ color: #fff;
+ border-radius: 5px;
+ border: 0;
+ font-weight: 600;
+
 }
 label{
   visibility: hidden;
