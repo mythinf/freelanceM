@@ -40,10 +40,10 @@ li{
   display: inline-block;
   margin: 10px;
 }
-section{
-  outline: 1px solid red;
+.section{
+  margin-top: 0;
 }
-.mainsection{
+#mainsection{
   background:	#AFEEEE;
 }
 h1{
@@ -72,4 +72,30 @@ img{
 }
 #contact{
   background: #98FB98;
+}
+label{
+  visibility: hidden;
+}
+footer{
+  width: 1007px;
+  height: 252px;
+  padding: 50px;
+  background: #2c3e50;
+}
+.footerbox{
+  display: inline-block;
+  width: 290px;
+  height: 202px;
+  padding: 15px;
+}
+.iconbox{
+  margin: 5px;
+  width: auto;
+  height: auto;
+}
+.icon{
+  text-decoration: none;
+  color: #fff;
+  /*border: 1px solid white;*/
+  font-size: 35px;
 }
